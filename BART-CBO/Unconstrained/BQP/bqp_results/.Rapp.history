@@ -1,0 +1,9 @@
+load("/Users/niyati/Projects:Codes/BART-CBO/Unconstrained/BQP/bqp_results/instance_022_PureGA_rep02.rds")
+a <- readRDS("/Users/niyati/Projects:Codes/BART-CBO/Unconstrained/BQP/bqp_results/instance_022_PureGA_rep02.rds")
+A
+a
+load("/Users/niyati/Projects:Codes/BART-CBO/Unconstrained/BQP/bqp_results/instance_021_PureGA_rep01.rds")
+a <- readRDS("/Users/niyati/Projects:Codes/BART-CBO/Unconstrained/BQP/bqp_results/instance_022_PureGA_rep01.rds")
+a
+a <- readRDS("/Users/niyati/Projects:Codes/BART-CBO/Unconstrained/BQP/bqp_results/instance_021_PureGA_rep01.rds")
+a

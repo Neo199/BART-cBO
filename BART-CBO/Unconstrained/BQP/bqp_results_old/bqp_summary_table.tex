@@ -1,0 +1,15 @@
+\begin{table}[ht]
+\centering
+\caption{BQP benchmark: per-method summary over replications.
+             Bold values indicate the best (lowest) mean objective.} 
+\label{tab:bqp_summary}
+\begin{tabular}{lrrrrrrr}
+  \toprule
+Method & Reps & Mean Obj. & SD Obj. & Min Obj. & Max Obj. & Mean Evals & Mean Time (s) \\ 
+  \midrule
+BART-BO & 10 & -43.4407 & 6.6578 & -54.4943 & -34.8096 & 270 & 263164.0 \\ 
+  DART-BO & 10 & -45.7701 & 4.7089 & -54.1261 & -38.3795 & 270 & 36911.9 \\ 
+   \rowcolor{gray!15}Pure-GA & 10 & -49.9281 & 4.9520 & -57.9229 & -41.8883 & 32302 & 1.4 \\ 
+   \bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,2 @@
+"task_id","penalty_weight","instance","seed","bart_best","ga_best","optimality_gap","feasibility_pct","n_feasible","n_total","bart_true_eval_count","ga_true_eval_count","bart_wall_sec","ga_wall_sec","x_best"
+41,0.1,9,1009,13155144,13375768,1.64943052241935,69.2307692307692,180,260,260,3882,74620.115,0.152000000001863,"010101010100100110100011"

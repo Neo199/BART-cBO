@@ -1,0 +1,9 @@
+load("/Users/niyati/Projects:Codes/BART-CBO/Constrained/dartMachine/C-BQP/c_bqp_results/instance_001_BARTBO_rep01.rds")
+a<- readRDS("/Users/niyati/Projects:Codes/BART-CBO/Constrained/dartMachine/C-BQP/c_bqp_results/instance_001_BARTBO_rep01.rds")
+a
+a<- readRDS("/Users/niyati/Projects:Codes/BART-CBO/Constrained/dartMachine/C-BQP/c_bqp_results/instance_001_BARTBO_rep09.rds")
+a<- readRDS("/Users/niyati/Projects:Codes/BART-CBO/Constrained/dartMachine/C-BQP/c_bqp_results/instance_001_BARTBO_rep08.rds")
+a<- readRDS("/Users/niyati/Projects:Codes/BART-CBO/Constrained/dartMachine/C-BQP/c_bqp_results/instance_008_BARTBO_rep08.rds")
+a
+a<- readRDS("/Users/niyati/Projects:Codes/BART-CBO/Constrained/dartMachine/C-BQP/c_bqp_results/instance_009_BARTBO_rep09.rds")
+a

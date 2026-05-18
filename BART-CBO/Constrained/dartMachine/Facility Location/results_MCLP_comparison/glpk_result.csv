@@ -1,0 +1,2 @@
+"method","run","best_coverage","coverage_pct","gap_from_glpk","gap_pct","true_evals","time_seconds","feasible_evals","feasible_rate","x1","x2","x3","x4","x5","x6","x7","x8","x9","x10","x11","x12","x13","x14","x15","x16"
+"GLPK",1,875247,91.6380574863917,0,0,NA,0.801,NA,NA,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0
